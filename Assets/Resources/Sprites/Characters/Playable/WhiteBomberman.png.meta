@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: c63193c77918d5c499f0e4e3cad3a4d6
+timeCreated: 1460220939
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WhiteBomberman_0
+    21300002: WhiteBomberman_1
+    21300004: WhiteBomberman_2
+    21300006: WhiteBomberman_3
+    21300008: WhiteBomberman_4
+    21300010: WhiteBomberman_5
+    21300012: WhiteBomberman_6
+    21300014: WhiteBomberman_7
+    21300016: WhiteBomberman_8
+    21300018: WhiteBomberman_9
+    21300020: WhiteBomberman_10
+    21300022: WhiteBomberman_11
+    21300024: WhiteBomberman_12
+    21300026: WhiteBomberman_13
+    21300028: WhiteBomberman_14
+    21300030: WhiteBomberman_15
+    21300032: WhiteBomberman_16
+    21300034: WhiteBomberman_17
+    21300036: WhiteBomberman_18
+    21300038: WhiteBomberman_19
+    21300040: WhiteBomberman_20
+    21300042: WhiteBomberman_21
+    21300044: WhiteBomberman_22
+    21300046: WhiteBomberman_23
+    21300048: WhiteBomberman_24
+    21300050: WhiteBomberman_25
+    21300052: WhiteBomberman_26
+    21300054: WhiteBomberman_27
+    21300056: WhiteBomberman_28
+    21300058: WhiteBomberman_29
+    21300060: WhiteBomberman_30
+    21300062: WhiteBomberman_31
+    21300064: WhiteBomberman_32
+    21300066: WhiteBomberman_33
+    21300068: WhiteBomberman_34
+    21300070: WhiteBomberman_36
+    21300072: WhiteBomberman_37
+    21300074: WhiteBomberman_38
+    21300076: WhiteBomberman_39
+    21300078: WhiteBomberman_40
+    21300080: WhiteBomberman_41
+    21300082: WhiteBomberman_42
+    21300084: WhiteBomberman_43
+    21300086: WhiteBomberman_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WhiteBomberman_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 142
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 116
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 116
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 116
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 116
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 116
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 115
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 115
+        width: 15
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_20
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 24}
+      outline: []
+    - name: WhiteBomberman_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 90
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 16
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 28
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 28
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: WhiteBomberman_43
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
